@@ -10,7 +10,7 @@ Visualization Tools: Explore interactive charts, graphs, and dashboards that bri
 Research Papers: Delve into academic literature and research papers exploring various aspects of Bitcoin, from market dynamics to network behavior.
 Getting Started 🚀
 
-We welcome contributions from all passionate data enthusiasts! Whether you've discovered a new dataset, developed a novel analysis technique, or crafted captivating visualizations, your contributions are invaluable. Fork this repository, make your enhancements, and submit a pull request – let's collaborate and elevate Bitcoin data analysis together!
+I welcome contributions from all passionate data enthusiasts! Whether you've discovered a new dataset, developed a novel analysis technique, or crafted captivating visualizations, your contributions are invaluable. Fork this repository, make your enhancements, and submit a pull request – let's collaborate and elevate Bitcoin data analysis together!
 
 Get in Touch - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aditivaidya10/)
 
